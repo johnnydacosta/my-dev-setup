@@ -1,0 +1,11 @@
+# zshrc
+alias vzsh="vim ~/.zshrc"
+alias rzsh="source ~/.zshrc"
+
+# common cmd
+alias rm='rm -i'
+
+# CLI tools
+alias lg="lazygit"
+
+
