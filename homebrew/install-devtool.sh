@@ -4,6 +4,7 @@
 cask_apps=(
   iterm2
   brave-browser
+  betterdisplay
 )
 
 # List of applications to install with Homebrew
